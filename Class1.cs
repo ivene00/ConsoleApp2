@@ -8,5 +8,6 @@ namespace ConsoleApp2
 {
     internal class Class1
     {
+        int a = 20;
     }
 }
